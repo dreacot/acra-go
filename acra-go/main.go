@@ -7,12 +7,12 @@ import (
 	"log"
 	"path/filepath"
 
-	bolt "github.com/gen2brain/acra-go/database/drivers/bolt"
-	level "github.com/gen2brain/acra-go/database/drivers/leveldb"
-	scribble "github.com/gen2brain/acra-go/database/drivers/scribble"
+	bolt "github.com/dreacot/acra-go/database/drivers/bolt"
+	level "github.com/dreacot/acra-go/database/drivers/leveldb"
+	scribble "github.com/dreacot/acra-go/database/drivers/scribble"
 
-	"github.com/gen2brain/acra-go/database"
-	"github.com/gen2brain/acra-go/server"
+	"github.com/dreacot/acra-go/database"
+	"github.com/dreacot/acra-go/server"
 )
 
 func main() {

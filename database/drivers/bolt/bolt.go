@@ -6,7 +6,7 @@ import (
 
 	"github.com/boltdb/bolt"
 
-	"github.com/gen2brain/acra-go/acra"
+	"github.com/dreacot/acra-go/acra"
 )
 
 var (

@@ -1,7 +1,7 @@
 package database
 
 import (
-	"github.com/gen2brain/acra-go/acra"
+	"github.com/dreacot/acra-go/acra"
 )
 
 // DB interface

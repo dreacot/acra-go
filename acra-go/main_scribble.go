@@ -6,8 +6,8 @@ import (
 	"flag"
 	"path/filepath"
 
-	"github.com/gen2brain/acra-go/database/drivers/scribble"
-	"github.com/gen2brain/acra-go/server"
+	"github.com/dreacot/acra-go/database/drivers/scribble"
+	"github.com/dreacot/acra-go/server"
 )
 
 func main() {

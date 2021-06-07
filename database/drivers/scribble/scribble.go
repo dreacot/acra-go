@@ -5,7 +5,7 @@ import (
 
 	"github.com/nanobox-io/golang-scribble"
 
-	"github.com/gen2brain/acra-go/acra"
+	"github.com/dreacot/acra-go/acra"
 )
 
 // ScribbleDB driver

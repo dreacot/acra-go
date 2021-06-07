@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/gen2brain/acra-go/acra"
-	"github.com/gen2brain/acra-go/database"
+	"github.com/dreacot/acra-go/acra"
+	"github.com/dreacot/acra-go/database"
 )
 
 // Frontend struct

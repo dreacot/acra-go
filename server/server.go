@@ -12,7 +12,7 @@ import (
 	"github.com/abbot/go-http-auth"
 	"github.com/elazarl/go-bindata-assetfs"
 
-	"github.com/gen2brain/acra-go/database"
+	"github.com/dreacot/acra-go/database"
 )
 
 const (

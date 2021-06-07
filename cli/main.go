@@ -14,7 +14,7 @@
 
 package main
 
-import "github.com/gen2brain/acra-go/cli/cmd"
+import "github.com/dreacot/acra-go/cli/cmd"
 
 func main() {
 	cmd.Execute()

@@ -6,8 +6,8 @@ import (
 
 	"github.com/nu7hatch/gouuid"
 
-	"github.com/gen2brain/acra-go/acra"
-	"github.com/gen2brain/acra-go/database"
+	"github.com/dreacot/acra-go/acra"
+	"github.com/dreacot/acra-go/database"
 )
 
 // Backend struct

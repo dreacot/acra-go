@@ -5,7 +5,7 @@ import (
 
 	"github.com/syndtr/goleveldb/leveldb"
 
-	"github.com/gen2brain/acra-go/acra"
+	"github.com/dreacot/acra-go/acra"
 )
 
 // LevelDB driver
